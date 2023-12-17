@@ -5,7 +5,7 @@
           <div class="col-sm-12 col-md-6">
             <h6>About</h6>
             <p class="text-justify">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident, deleniti impedit. Minus repellat quidem consequuntur repellendus, itaque suscipit quas, accusamus minima eos optio consectetur distinctio sed quod accusantium asperiores fugit.
-            Quia alias debitis dolores sapiente ipsam rerum tenetur, odit corporis tempora voluptate odio id natus nulla modi sint non, incidunt eaque recusandae. Pariatur cumque nostrum dolores perspiciatis, ut perferendis dignissimos.</p>
+            Quia alias debitis dolores sapientedssds ipsam rerum tenetur, odit corporis tempora voluptate odio id natus nulla modi sint non, incidunt eaque recusandae. Pariatur cumque nostrum dolores perspiciatis, ut perferendis dignissimos.</p>
           </div>
 
           <div>
